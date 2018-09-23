@@ -1,0 +1,13 @@
+{
+    "name": "msgpack-ts",
+    "version": "1.0.0",
+    "description": "Typescript bindings for msgpack",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "InJoins <injoins@qq.com> (https://github.com/injoins)",
+    "homepage": "https://github.com/InJoins/msgpack-ts#readme",
+    "license": "MIT",
+    "dependencies": {
+    }
+  }
